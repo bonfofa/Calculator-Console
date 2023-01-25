@@ -1,0 +1,8 @@
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\bin\Debug\CalculadoraPogChamp.exe.config
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\bin\Debug\CalculadoraPogChamp.exe
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\bin\Debug\CalculadoraPogChamp.pdb
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\obj\Debug\CalculadoraPogChamp.csproj.AssemblyReference.cache
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\obj\Debug\CalculadoraPogChamp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\obj\Debug\CalculadoraPogChamp.csproj.CoreCompileInputs.cache
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\obj\Debug\CalculadoraPogChamp.exe
+C:\Users\bonnf\source\repos\CalculadoraPogChamp\CalculadoraPogChamp\obj\Debug\CalculadoraPogChamp.pdb
